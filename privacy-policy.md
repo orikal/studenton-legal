@@ -15,8 +15,8 @@ This Privacy Policy should be read together with our **[Terms of Service](terms-
 
 StudenTeam is a student-organizer and academic community application developed and operated by **Ori**.
 
-- **Privacy contact:** [privacy@studenteam.app](mailto:privacy@studenteam.app)  
-- **General contact:** [contact@studenteam.app](mailto:contact@studenteam.app)
+- **Privacy contact:** [Orikal3107@gmail.com](mailto:Orikal3107@gmail.com)  
+- **General contact:** [Orikal3107@gmail.com](mailto:Orikal3107@gmail.com)
 
 The App is distributed on **iOS** (Apple App Store) and may also be available on **Android**. This policy applies regardless of platform.
 
@@ -305,7 +305,7 @@ If you **delete your account** (via the App's Settings → Delete Account featur
 - Associated data in tables with foreign key relationships to your user ID will be handled according to database cascade rules (typically deleted or anonymized).
 - We will delete or anonymize associated personal data within a reasonable period, generally **within 30 days**, subject to backup cycles and legal retention requirements.
 - **Forum content, messages, and tutor listings** you published may remain in the database if they are referenced by other users' interactions (e.g., replies to your posts), but will be dissociated from your identifiable account information or marked as from a deleted user.
-- **Files uploaded to public storage** (forum attachments, tutor documents, DM files) are **not automatically deleted** from Supabase Storage upon account deletion. If you want specific files removed, contact us at **privacy@studenteam.app** with file URLs or identifying information before deleting your account.
+- **Files uploaded to public storage** (forum attachments, tutor documents, DM files) are **not automatically deleted** from Supabase Storage upon account deletion. If you want specific files removed, contact us at **Orikal3107@gmail.com** with file URLs or identifying information before deleting your account.
 
 ### 6.3 Content seen by others
 
@@ -334,13 +334,13 @@ We implement appropriate technical and organizational measures, including:
 - No method of transmission or storage is 100% secure.
 - **Public storage buckets** mean that files you upload (forum attachments, tutor documents, DM files) are accessible to anyone with the direct URL. Do not upload sensitive personal information.
 - We encourage strong passwords, device security (screen lock), and caution when sharing content in the App.
-- If you suspect unauthorized access to your account, contact us immediately at **privacy@studenteam.app**.
+- If you suspect unauthorized access to your account, contact us immediately at **Orikal3107@gmail.com**.
 
 ---
 
 ## 8. Children's privacy
 
-The App is **not directed at children under 13** (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children below that age. If you believe we have done so, contact **privacy@studenteam.app** and we will take appropriate steps to delete the information.
+The App is **not directed at children under 13** (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children below that age. If you believe we have done so, contact **Orikal3107@gmail.com** and we will take appropriate steps to delete the information.
 
 ---
 
@@ -348,11 +348,11 @@ The App is **not directed at children under 13** (or the minimum age required in
 
 Depending on your location, you may have rights to **access**, **rectify**, **delete**, **restrict**, or **object** to certain processing, and **data portability**. You may also withdraw consent where processing is consent-based.
 
-To exercise these rights, contact **privacy@studenteam.app**. We will respond within **30 days** where applicable law requires it.
+To exercise these rights, contact **Orikal3107@gmail.com**. We will respond within **30 days** where applicable law requires it.
 
 If you are in the **EEA/UK**, you may lodge a complaint with your local data protection authority.
 
-**California residents (summary):** You may have rights under the **CCPA/CPRA** (for example to know, delete, and opt out of sale/sharing). We do not sell personal information as defined by California law. To submit a request, email **privacy@studenteam.app**.
+**California residents (summary):** You may have rights under the **CCPA/CPRA** (for example to know, delete, and opt out of sale/sharing). We do not sell personal information as defined by California law. To submit a request, email **Orikal3107@gmail.com**.
 
 ---
 
@@ -385,8 +385,8 @@ We may update this Privacy Policy from time to time. We will update the **Last U
 
 ## 13. Contact
 
-**Privacy:** [privacy@studenteam.app](mailto:privacy@studenteam.app)  
-**General:** [contact@studenteam.app](mailto:contact@studenteam.app)  
+**Privacy:** [Orikal3107@gmail.com](mailto:Orikal3107@gmail.com)  
+**General:** [Orikal3107@gmail.com](mailto:Orikal3107@gmail.com)  
 **App name:** StudenTeam  
 
 ---

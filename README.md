@@ -20,5 +20,5 @@ Use these URLs in **App Store Connect**:
 
 ## Contact
 
-- Privacy inquiries: privacy@studenteam.app
-- General: contact@studenteam.app
+- Privacy inquiries: Orikal3107@gmail.com
+- General: Orikal3107@gmail.com

@@ -93,7 +93,7 @@ You may register using an **email and password**, **Sign in with Apple**, or **G
 
 ### 3.2 Account security
 
-Notify us immediately at **contact@studenteam.app** if you suspect unauthorized access. We are not liable for losses resulting from unauthorized use of your credentials.
+Notify us immediately at **Orikal3107@gmail.com** if you suspect unauthorized access. We are not liable for losses resulting from unauthorized use of your credentials.
 
 ### 3.3 One account per person
 
@@ -249,7 +249,7 @@ The App (code, design, branding, and original materials excluding your User Cont
 
 ### 7.2 Copyright complaints
 
-If you believe content in the App infringes your copyright, send a notice to **contact@studenteam.app** with enough detail for us to locate the material and evaluate the claim. We may remove or disable access to allegedly infringing content when appropriate.
+If you believe content in the App infringes your copyright, send a notice to **Orikal3107@gmail.com** with enough detail for us to locate the material and evaluate the claim. We may remove or disable access to allegedly infringing content when appropriate.
 
 ### 7.3 Feedback
 
@@ -296,7 +296,7 @@ You agree to indemnify and hold harmless StudenTeam, its operator, and affiliate
 
 ### 12.1 By you
 
-You may stop using the App at any time. You may request account deletion as described in the App or by contacting **contact@studenteam.app**.
+You may stop using the App at any time. You may request account deletion as described in the App or by contacting **Orikal3107@gmail.com**.
 
 ### 12.2 By us
 
@@ -336,7 +336,7 @@ If you obtained the App through the **Apple App Store**, you acknowledge that:
 
 ## 16. Contact
 
-**Email:** contact@studenteam.app  
+**Email:** Orikal3107@gmail.com  
 **App:** StudenTeam  
 
 ---
